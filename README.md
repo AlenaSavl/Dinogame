@@ -1,2 +1,2 @@
 # Dinogame
-#https://alenasavl.github.io/Dinogame/
+https://alenasavl.github.io/Dinogame/
